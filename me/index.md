@@ -2,10 +2,8 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+# Who am I?
+This is my infrequently updated unique website. Currently it acts as a platform where I can include various blog posts and assorted journal entries detailing motley shenanigans.
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+# What do I do?
+I'm a<strong> student</strong> who is learning to be a compassionate person.
